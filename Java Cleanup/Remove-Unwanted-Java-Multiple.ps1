@@ -1,0 +1,1 @@
+get-content .\JavaProductCodes.txt | .\Remove-Unwanted-Java.ps1
